@@ -3,7 +3,7 @@
 
   ```js
     const DL = {
-      code: ['Javascript', Python, 'HTML', 'CSS', React],
+      hard skills: ['Javascript', Python, 'HTML', 'CSS', React],
       tools: ['GIT', 'GitHub', 'VsCode', 'figma'],
    },
    currentOccupation: ['Laboratoria student, open for job opportunities'],
