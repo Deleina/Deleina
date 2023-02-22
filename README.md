@@ -1,12 +1,26 @@
-### Hi 👋
+### Hi, I'm Deleina graduate laboratoria student. 👋
 
 
   ```js
     const DL = {
-      hard skills: ['Javascript', Python, 'HTML', 'CSS', React],
-      tools: ['GIT', 'GitHub', 'VsCode', 'figma'],
+          code: ['Javascript', 'HTML', 'CSS'],
+          technologies: {
+                 frontEnd: {
+                 js: ['React'],
+          },
+          backEnd: {
+                js: ['Node.js'],
+                python:['Jupiter']
+          },
+          testing: {
+                React: ['React Testing Library'],
+                js: ['jest.io']
+          },
+          misc: ['Firebase'],
+          tools: ['GIT', 'GitHub', 'VsCode', 'figma'],
    },
-   currentOccupation: ['Laboratoria student, open for job opportunities'],
-    }
+   currentOccupation: ['student, open for job opportunities'],
+};
+
   ```
 
