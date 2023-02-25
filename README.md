@@ -1,5 +1,7 @@
+
 ### Hi, I'm Deleina graduate laboratoria student. 👋
 
+<img src="https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" width="250" height="250"/>
 
   ```js
     const DL = {
